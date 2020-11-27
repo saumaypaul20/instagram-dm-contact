@@ -15,8 +15,6 @@ Python script to send messages to your instagram friend.
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
-pip install selenium
-
 pip install pandas
 ```
 
