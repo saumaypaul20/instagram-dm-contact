@@ -6,8 +6,6 @@ Python script to send messages to your instagram friend.
 
 [Google Chrome](https://choosealicense.com/licenses/mit/)
 
-[Selenium](https://selenium-python.readthedocs.io/)
-
 [chromedriver](http://chromedriver.chromium.org/)
 
 ## Installation
@@ -15,6 +13,8 @@ Python script to send messages to your instagram friend.
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
+pip install selenium
+
 pip install pandas
 ```
 
